@@ -1,0 +1,9 @@
+Column,Missing_Values,Duplicate_Values,Data_Type
+gender,0,0,object
+race/ethnicity,0,0,object
+parental level of education,0,0,object
+lunch,0,0,object
+test preparation course,0,0,object
+math score,0,0,int64
+reading score,0,0,int64
+writing score,0,0,int64
