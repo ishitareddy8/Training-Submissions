@@ -1,0 +1,13 @@
+gender,race/ethnicity,parental level of education,lunch,test preparation course,math score,reading score,writing score
+female,group b,some high school,free/reduced,none,18,32,28
+female,group c,some high school,free/reduced,none,0,17,10
+female,group c,some college,free/reduced,none,22,39,33
+female,group b,some high school,free/reduced,none,24,38,27
+female,group d,associate's degree,free/reduced,none,26,31,38
+female,group b,some college,standard,none,19,38,32
+female,group b,high school,free/reduced,completed,23,44,36
+female,group b,high school,free/reduced,none,8,24,23
+male,group e,some high school,standard,none,30,26,22
+male,group c,some college,free/reduced,none,35,28,27
+male,group a,some college,free/reduced,none,28,23,19
+male,group b,high school,free/reduced,none,30,24,15
