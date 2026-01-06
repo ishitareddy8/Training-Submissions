@@ -1,0 +1,30 @@
+DATA QUALITY REPORT
+===================
+
+Dataset Shape:
+Rows: 1000, Columns: 8
+
+Missing Values:
+gender                         0
+race/ethnicity                 0
+parental level of education    0
+lunch                          0
+test preparation course        0
+math score                     0
+reading score                  0
+writing score                  0
+dtype: int64
+
+Duplicate Rows:
+0
+
+Column Data Types:
+gender                          object
+race/ethnicity                  object
+parental level of education     object
+lunch                           object
+test preparation course         object
+math score                     float64
+reading score                  float64
+writing score                  float64
+dtype: object
